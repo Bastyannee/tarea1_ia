@@ -5,6 +5,7 @@ from src.environment.fire import FireModel
 from src.environment.simulator import Simulator
 from src.algorithms.uninformed import BFS, DFS
 from src.algorithms.informed import AStar, GreedyBFS
+from src.algorithms.bioinspired import GeneticAlgorithm
 
 def run_simulation(map_path: str, algo_name: str, algo_class: Type, seed: int = 42, max_turns: int = 200):
     # Foco de fuego inicial (ej. sector superior central del edificio)
@@ -86,6 +87,7 @@ def main():
         "DFS (No informado)": DFS,
         "A* (Informado)": AStar,
         "Greedy BFS (Informado)": GreedyBFS,
+        "Genético (Metaheurística)": GeneticAlgorithm,
     }
 
     print(f"\n========================================================")
