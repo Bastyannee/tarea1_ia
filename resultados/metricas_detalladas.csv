@@ -1,0 +1,1201 @@
+mapa,algoritmo,iteracion,semilla,tasa_supervivencia,tiempo_despeje
+map1_bottleneck,BFS,1,1000,100.0,21
+map1_bottleneck,BFS,2,1001,100.0,21
+map1_bottleneck,BFS,3,1002,100.0,21
+map1_bottleneck,BFS,4,1003,100.0,21
+map1_bottleneck,BFS,5,1004,100.0,21
+map1_bottleneck,BFS,6,1005,100.0,21
+map1_bottleneck,BFS,7,1006,100.0,21
+map1_bottleneck,BFS,8,1007,100.0,21
+map1_bottleneck,BFS,9,1008,100.0,21
+map1_bottleneck,BFS,10,1009,100.0,21
+map1_bottleneck,BFS,11,1010,100.0,21
+map1_bottleneck,BFS,12,1011,100.0,21
+map1_bottleneck,BFS,13,1012,100.0,21
+map1_bottleneck,BFS,14,1013,100.0,21
+map1_bottleneck,BFS,15,1014,100.0,21
+map1_bottleneck,BFS,16,1015,100.0,21
+map1_bottleneck,BFS,17,1016,100.0,21
+map1_bottleneck,BFS,18,1017,100.0,21
+map1_bottleneck,BFS,19,1018,100.0,21
+map1_bottleneck,BFS,20,1019,100.0,21
+map1_bottleneck,BFS,21,1020,100.0,21
+map1_bottleneck,BFS,22,1021,100.0,21
+map1_bottleneck,BFS,23,1022,100.0,21
+map1_bottleneck,BFS,24,1023,100.0,21
+map1_bottleneck,BFS,25,1024,100.0,21
+map1_bottleneck,BFS,26,1025,100.0,21
+map1_bottleneck,BFS,27,1026,100.0,21
+map1_bottleneck,BFS,28,1027,100.0,21
+map1_bottleneck,BFS,29,1028,100.0,21
+map1_bottleneck,BFS,30,1029,100.0,21
+map1_bottleneck,BFS,31,1030,100.0,21
+map1_bottleneck,BFS,32,1031,100.0,21
+map1_bottleneck,BFS,33,1032,100.0,21
+map1_bottleneck,BFS,34,1033,100.0,21
+map1_bottleneck,BFS,35,1034,100.0,21
+map1_bottleneck,BFS,36,1035,100.0,21
+map1_bottleneck,BFS,37,1036,100.0,21
+map1_bottleneck,BFS,38,1037,100.0,21
+map1_bottleneck,BFS,39,1038,100.0,21
+map1_bottleneck,BFS,40,1039,100.0,21
+map1_bottleneck,BFS,41,1040,100.0,21
+map1_bottleneck,BFS,42,1041,100.0,21
+map1_bottleneck,BFS,43,1042,100.0,21
+map1_bottleneck,BFS,44,1043,100.0,21
+map1_bottleneck,BFS,45,1044,100.0,21
+map1_bottleneck,BFS,46,1045,100.0,21
+map1_bottleneck,BFS,47,1046,100.0,21
+map1_bottleneck,BFS,48,1047,100.0,21
+map1_bottleneck,BFS,49,1048,100.0,21
+map1_bottleneck,BFS,50,1049,100.0,21
+map1_bottleneck,BFS,51,1050,100.0,21
+map1_bottleneck,BFS,52,1051,100.0,21
+map1_bottleneck,BFS,53,1052,100.0,21
+map1_bottleneck,BFS,54,1053,100.0,21
+map1_bottleneck,BFS,55,1054,100.0,21
+map1_bottleneck,BFS,56,1055,100.0,21
+map1_bottleneck,BFS,57,1056,100.0,21
+map1_bottleneck,BFS,58,1057,100.0,21
+map1_bottleneck,BFS,59,1058,100.0,21
+map1_bottleneck,BFS,60,1059,100.0,21
+map1_bottleneck,BFS,61,1060,100.0,21
+map1_bottleneck,BFS,62,1061,100.0,21
+map1_bottleneck,BFS,63,1062,100.0,21
+map1_bottleneck,BFS,64,1063,100.0,21
+map1_bottleneck,BFS,65,1064,100.0,21
+map1_bottleneck,BFS,66,1065,100.0,21
+map1_bottleneck,BFS,67,1066,100.0,21
+map1_bottleneck,BFS,68,1067,100.0,21
+map1_bottleneck,BFS,69,1068,100.0,21
+map1_bottleneck,BFS,70,1069,100.0,21
+map1_bottleneck,BFS,71,1070,100.0,21
+map1_bottleneck,BFS,72,1071,100.0,21
+map1_bottleneck,BFS,73,1072,100.0,21
+map1_bottleneck,BFS,74,1073,100.0,21
+map1_bottleneck,BFS,75,1074,100.0,21
+map1_bottleneck,BFS,76,1075,100.0,21
+map1_bottleneck,BFS,77,1076,100.0,21
+map1_bottleneck,BFS,78,1077,100.0,21
+map1_bottleneck,BFS,79,1078,100.0,21
+map1_bottleneck,BFS,80,1079,100.0,21
+map1_bottleneck,DFS,1,1000,45.45454545454545,35
+map1_bottleneck,DFS,2,1001,81.81818181818183,35
+map1_bottleneck,DFS,3,1002,36.36363636363637,33
+map1_bottleneck,DFS,4,1003,63.63636363636363,42
+map1_bottleneck,DFS,5,1004,63.63636363636363,39
+map1_bottleneck,DFS,6,1005,63.63636363636363,42
+map1_bottleneck,DFS,7,1006,18.181818181818183,32
+map1_bottleneck,DFS,8,1007,72.72727272727273,37
+map1_bottleneck,DFS,9,1008,54.54545454545454,39
+map1_bottleneck,DFS,10,1009,72.72727272727273,34
+map1_bottleneck,DFS,11,1010,63.63636363636363,35
+map1_bottleneck,DFS,12,1011,72.72727272727273,35
+map1_bottleneck,DFS,13,1012,90.9090909090909,36
+map1_bottleneck,DFS,14,1013,27.27272727272727,34
+map1_bottleneck,DFS,15,1014,81.81818181818183,35
+map1_bottleneck,DFS,16,1015,36.36363636363637,32
+map1_bottleneck,DFS,17,1016,54.54545454545454,38
+map1_bottleneck,DFS,18,1017,54.54545454545454,34
+map1_bottleneck,DFS,19,1018,72.72727272727273,34
+map1_bottleneck,DFS,20,1019,100.0,36
+map1_bottleneck,DFS,21,1020,81.81818181818183,40
+map1_bottleneck,DFS,22,1021,90.9090909090909,35
+map1_bottleneck,DFS,23,1022,100.0,36
+map1_bottleneck,DFS,24,1023,36.36363636363637,36
+map1_bottleneck,DFS,25,1024,81.81818181818183,38
+map1_bottleneck,DFS,26,1025,45.45454545454545,35
+map1_bottleneck,DFS,27,1026,72.72727272727273,34
+map1_bottleneck,DFS,28,1027,100.0,36
+map1_bottleneck,DFS,29,1028,72.72727272727273,38
+map1_bottleneck,DFS,30,1029,63.63636363636363,39
+map1_bottleneck,DFS,31,1030,72.72727272727273,36
+map1_bottleneck,DFS,32,1031,63.63636363636363,36
+map1_bottleneck,DFS,33,1032,63.63636363636363,36
+map1_bottleneck,DFS,34,1033,81.81818181818183,39
+map1_bottleneck,DFS,35,1034,45.45454545454545,37
+map1_bottleneck,DFS,36,1035,54.54545454545454,32
+map1_bottleneck,DFS,37,1036,45.45454545454545,32
+map1_bottleneck,DFS,38,1037,72.72727272727273,34
+map1_bottleneck,DFS,39,1038,54.54545454545454,39
+map1_bottleneck,DFS,40,1039,45.45454545454545,34
+map1_bottleneck,DFS,41,1040,100.0,36
+map1_bottleneck,DFS,42,1041,45.45454545454545,34
+map1_bottleneck,DFS,43,1042,100.0,36
+map1_bottleneck,DFS,44,1043,81.81818181818183,38
+map1_bottleneck,DFS,45,1044,63.63636363636363,35
+map1_bottleneck,DFS,46,1045,81.81818181818183,35
+map1_bottleneck,DFS,47,1046,54.54545454545454,36
+map1_bottleneck,DFS,48,1047,81.81818181818183,38
+map1_bottleneck,DFS,49,1048,72.72727272727273,39
+map1_bottleneck,DFS,50,1049,54.54545454545454,34
+map1_bottleneck,DFS,51,1050,90.9090909090909,40
+map1_bottleneck,DFS,52,1051,81.81818181818183,35
+map1_bottleneck,DFS,53,1052,27.27272727272727,33
+map1_bottleneck,DFS,54,1053,81.81818181818183,40
+map1_bottleneck,DFS,55,1054,81.81818181818183,35
+map1_bottleneck,DFS,56,1055,100.0,36
+map1_bottleneck,DFS,57,1056,36.36363636363637,32
+map1_bottleneck,DFS,58,1057,54.54545454545454,35
+map1_bottleneck,DFS,59,1058,27.27272727272727,30
+map1_bottleneck,DFS,60,1059,63.63636363636363,33
+map1_bottleneck,DFS,61,1060,100.0,40
+map1_bottleneck,DFS,62,1061,72.72727272727273,39
+map1_bottleneck,DFS,63,1062,72.72727272727273,42
+map1_bottleneck,DFS,64,1063,81.81818181818183,39
+map1_bottleneck,DFS,65,1064,27.27272727272727,30
+map1_bottleneck,DFS,66,1065,45.45454545454545,32
+map1_bottleneck,DFS,67,1066,81.81818181818183,34
+map1_bottleneck,DFS,68,1067,72.72727272727273,35
+map1_bottleneck,DFS,69,1068,36.36363636363637,36
+map1_bottleneck,DFS,70,1069,54.54545454545454,34
+map1_bottleneck,DFS,71,1070,90.9090909090909,36
+map1_bottleneck,DFS,72,1071,63.63636363636363,33
+map1_bottleneck,DFS,73,1072,72.72727272727273,40
+map1_bottleneck,DFS,74,1073,54.54545454545454,34
+map1_bottleneck,DFS,75,1074,81.81818181818183,41
+map1_bottleneck,DFS,76,1075,90.9090909090909,40
+map1_bottleneck,DFS,77,1076,54.54545454545454,34
+map1_bottleneck,DFS,78,1077,100.0,36
+map1_bottleneck,DFS,79,1078,63.63636363636363,38
+map1_bottleneck,DFS,80,1079,72.72727272727273,37
+map1_bottleneck,A*,1,1000,100.0,21
+map1_bottleneck,A*,2,1001,100.0,21
+map1_bottleneck,A*,3,1002,100.0,21
+map1_bottleneck,A*,4,1003,100.0,21
+map1_bottleneck,A*,5,1004,100.0,21
+map1_bottleneck,A*,6,1005,100.0,21
+map1_bottleneck,A*,7,1006,100.0,21
+map1_bottleneck,A*,8,1007,100.0,21
+map1_bottleneck,A*,9,1008,100.0,21
+map1_bottleneck,A*,10,1009,100.0,21
+map1_bottleneck,A*,11,1010,100.0,21
+map1_bottleneck,A*,12,1011,100.0,21
+map1_bottleneck,A*,13,1012,100.0,21
+map1_bottleneck,A*,14,1013,100.0,21
+map1_bottleneck,A*,15,1014,100.0,21
+map1_bottleneck,A*,16,1015,100.0,21
+map1_bottleneck,A*,17,1016,100.0,21
+map1_bottleneck,A*,18,1017,100.0,21
+map1_bottleneck,A*,19,1018,100.0,21
+map1_bottleneck,A*,20,1019,100.0,21
+map1_bottleneck,A*,21,1020,100.0,21
+map1_bottleneck,A*,22,1021,100.0,21
+map1_bottleneck,A*,23,1022,100.0,21
+map1_bottleneck,A*,24,1023,100.0,21
+map1_bottleneck,A*,25,1024,100.0,21
+map1_bottleneck,A*,26,1025,100.0,21
+map1_bottleneck,A*,27,1026,100.0,21
+map1_bottleneck,A*,28,1027,100.0,21
+map1_bottleneck,A*,29,1028,100.0,21
+map1_bottleneck,A*,30,1029,100.0,21
+map1_bottleneck,A*,31,1030,100.0,21
+map1_bottleneck,A*,32,1031,100.0,21
+map1_bottleneck,A*,33,1032,100.0,21
+map1_bottleneck,A*,34,1033,100.0,21
+map1_bottleneck,A*,35,1034,100.0,21
+map1_bottleneck,A*,36,1035,100.0,21
+map1_bottleneck,A*,37,1036,100.0,21
+map1_bottleneck,A*,38,1037,100.0,21
+map1_bottleneck,A*,39,1038,100.0,21
+map1_bottleneck,A*,40,1039,100.0,21
+map1_bottleneck,A*,41,1040,100.0,21
+map1_bottleneck,A*,42,1041,100.0,21
+map1_bottleneck,A*,43,1042,100.0,21
+map1_bottleneck,A*,44,1043,100.0,21
+map1_bottleneck,A*,45,1044,100.0,21
+map1_bottleneck,A*,46,1045,100.0,21
+map1_bottleneck,A*,47,1046,100.0,21
+map1_bottleneck,A*,48,1047,100.0,21
+map1_bottleneck,A*,49,1048,100.0,21
+map1_bottleneck,A*,50,1049,100.0,21
+map1_bottleneck,A*,51,1050,100.0,21
+map1_bottleneck,A*,52,1051,100.0,21
+map1_bottleneck,A*,53,1052,100.0,21
+map1_bottleneck,A*,54,1053,100.0,21
+map1_bottleneck,A*,55,1054,100.0,21
+map1_bottleneck,A*,56,1055,100.0,21
+map1_bottleneck,A*,57,1056,100.0,21
+map1_bottleneck,A*,58,1057,100.0,21
+map1_bottleneck,A*,59,1058,100.0,21
+map1_bottleneck,A*,60,1059,100.0,21
+map1_bottleneck,A*,61,1060,100.0,21
+map1_bottleneck,A*,62,1061,100.0,21
+map1_bottleneck,A*,63,1062,100.0,21
+map1_bottleneck,A*,64,1063,100.0,21
+map1_bottleneck,A*,65,1064,100.0,21
+map1_bottleneck,A*,66,1065,100.0,21
+map1_bottleneck,A*,67,1066,100.0,21
+map1_bottleneck,A*,68,1067,100.0,21
+map1_bottleneck,A*,69,1068,100.0,21
+map1_bottleneck,A*,70,1069,100.0,21
+map1_bottleneck,A*,71,1070,100.0,21
+map1_bottleneck,A*,72,1071,100.0,21
+map1_bottleneck,A*,73,1072,100.0,21
+map1_bottleneck,A*,74,1073,100.0,21
+map1_bottleneck,A*,75,1074,100.0,21
+map1_bottleneck,A*,76,1075,100.0,21
+map1_bottleneck,A*,77,1076,100.0,21
+map1_bottleneck,A*,78,1077,100.0,21
+map1_bottleneck,A*,79,1078,100.0,21
+map1_bottleneck,A*,80,1079,100.0,21
+map1_bottleneck,Greedy BFS,1,1000,100.0,21
+map1_bottleneck,Greedy BFS,2,1001,100.0,21
+map1_bottleneck,Greedy BFS,3,1002,100.0,21
+map1_bottleneck,Greedy BFS,4,1003,100.0,21
+map1_bottleneck,Greedy BFS,5,1004,100.0,21
+map1_bottleneck,Greedy BFS,6,1005,100.0,21
+map1_bottleneck,Greedy BFS,7,1006,100.0,21
+map1_bottleneck,Greedy BFS,8,1007,100.0,21
+map1_bottleneck,Greedy BFS,9,1008,100.0,21
+map1_bottleneck,Greedy BFS,10,1009,100.0,21
+map1_bottleneck,Greedy BFS,11,1010,100.0,21
+map1_bottleneck,Greedy BFS,12,1011,100.0,21
+map1_bottleneck,Greedy BFS,13,1012,100.0,21
+map1_bottleneck,Greedy BFS,14,1013,100.0,21
+map1_bottleneck,Greedy BFS,15,1014,100.0,21
+map1_bottleneck,Greedy BFS,16,1015,100.0,21
+map1_bottleneck,Greedy BFS,17,1016,100.0,21
+map1_bottleneck,Greedy BFS,18,1017,100.0,21
+map1_bottleneck,Greedy BFS,19,1018,100.0,21
+map1_bottleneck,Greedy BFS,20,1019,100.0,21
+map1_bottleneck,Greedy BFS,21,1020,100.0,21
+map1_bottleneck,Greedy BFS,22,1021,100.0,21
+map1_bottleneck,Greedy BFS,23,1022,100.0,21
+map1_bottleneck,Greedy BFS,24,1023,100.0,21
+map1_bottleneck,Greedy BFS,25,1024,100.0,21
+map1_bottleneck,Greedy BFS,26,1025,100.0,21
+map1_bottleneck,Greedy BFS,27,1026,100.0,21
+map1_bottleneck,Greedy BFS,28,1027,100.0,21
+map1_bottleneck,Greedy BFS,29,1028,100.0,21
+map1_bottleneck,Greedy BFS,30,1029,100.0,21
+map1_bottleneck,Greedy BFS,31,1030,100.0,21
+map1_bottleneck,Greedy BFS,32,1031,100.0,21
+map1_bottleneck,Greedy BFS,33,1032,100.0,21
+map1_bottleneck,Greedy BFS,34,1033,100.0,21
+map1_bottleneck,Greedy BFS,35,1034,100.0,21
+map1_bottleneck,Greedy BFS,36,1035,100.0,21
+map1_bottleneck,Greedy BFS,37,1036,100.0,21
+map1_bottleneck,Greedy BFS,38,1037,100.0,21
+map1_bottleneck,Greedy BFS,39,1038,100.0,21
+map1_bottleneck,Greedy BFS,40,1039,100.0,21
+map1_bottleneck,Greedy BFS,41,1040,100.0,21
+map1_bottleneck,Greedy BFS,42,1041,100.0,21
+map1_bottleneck,Greedy BFS,43,1042,100.0,21
+map1_bottleneck,Greedy BFS,44,1043,100.0,21
+map1_bottleneck,Greedy BFS,45,1044,100.0,21
+map1_bottleneck,Greedy BFS,46,1045,100.0,21
+map1_bottleneck,Greedy BFS,47,1046,100.0,21
+map1_bottleneck,Greedy BFS,48,1047,100.0,21
+map1_bottleneck,Greedy BFS,49,1048,100.0,21
+map1_bottleneck,Greedy BFS,50,1049,100.0,21
+map1_bottleneck,Greedy BFS,51,1050,100.0,21
+map1_bottleneck,Greedy BFS,52,1051,100.0,21
+map1_bottleneck,Greedy BFS,53,1052,100.0,21
+map1_bottleneck,Greedy BFS,54,1053,100.0,21
+map1_bottleneck,Greedy BFS,55,1054,100.0,21
+map1_bottleneck,Greedy BFS,56,1055,100.0,21
+map1_bottleneck,Greedy BFS,57,1056,100.0,21
+map1_bottleneck,Greedy BFS,58,1057,100.0,21
+map1_bottleneck,Greedy BFS,59,1058,100.0,21
+map1_bottleneck,Greedy BFS,60,1059,100.0,21
+map1_bottleneck,Greedy BFS,61,1060,100.0,21
+map1_bottleneck,Greedy BFS,62,1061,100.0,21
+map1_bottleneck,Greedy BFS,63,1062,100.0,21
+map1_bottleneck,Greedy BFS,64,1063,100.0,21
+map1_bottleneck,Greedy BFS,65,1064,100.0,21
+map1_bottleneck,Greedy BFS,66,1065,100.0,21
+map1_bottleneck,Greedy BFS,67,1066,100.0,21
+map1_bottleneck,Greedy BFS,68,1067,100.0,21
+map1_bottleneck,Greedy BFS,69,1068,100.0,21
+map1_bottleneck,Greedy BFS,70,1069,100.0,21
+map1_bottleneck,Greedy BFS,71,1070,100.0,21
+map1_bottleneck,Greedy BFS,72,1071,100.0,21
+map1_bottleneck,Greedy BFS,73,1072,100.0,21
+map1_bottleneck,Greedy BFS,74,1073,100.0,21
+map1_bottleneck,Greedy BFS,75,1074,100.0,21
+map1_bottleneck,Greedy BFS,76,1075,100.0,21
+map1_bottleneck,Greedy BFS,77,1076,100.0,21
+map1_bottleneck,Greedy BFS,78,1077,100.0,21
+map1_bottleneck,Greedy BFS,79,1078,100.0,21
+map1_bottleneck,Greedy BFS,80,1079,100.0,21
+map1_bottleneck,Genético,1,1000,81.81818181818183,36
+map1_bottleneck,Genético,2,1001,36.36363636363637,40
+map1_bottleneck,Genético,3,1002,90.9090909090909,40
+map1_bottleneck,Genético,4,1003,90.9090909090909,40
+map1_bottleneck,Genético,5,1004,54.54545454545454,37
+map1_bottleneck,Genético,6,1005,72.72727272727273,36
+map1_bottleneck,Genético,7,1006,100.0,38
+map1_bottleneck,Genético,8,1007,81.81818181818183,50
+map1_bottleneck,Genético,9,1008,90.9090909090909,38
+map1_bottleneck,Genético,10,1009,81.81818181818183,35
+map1_bottleneck,Genético,11,1010,100.0,39
+map1_bottleneck,Genético,12,1011,90.9090909090909,37
+map1_bottleneck,Genético,13,1012,100.0,36
+map1_bottleneck,Genético,14,1013,100.0,37
+map1_bottleneck,Genético,15,1014,72.72727272727273,36
+map1_bottleneck,Genético,16,1015,90.9090909090909,36
+map1_bottleneck,Genético,17,1016,100.0,39
+map1_bottleneck,Genético,18,1017,100.0,36
+map1_bottleneck,Genético,19,1018,81.81818181818183,34
+map1_bottleneck,Genético,20,1019,90.9090909090909,37
+map1_bottleneck,Genético,21,1020,81.81818181818183,42
+map1_bottleneck,Genético,22,1021,100.0,36
+map1_bottleneck,Genético,23,1022,90.9090909090909,36
+map1_bottleneck,Genético,24,1023,100.0,37
+map1_bottleneck,Genético,25,1024,90.9090909090909,36
+map1_bottleneck,Genético,26,1025,100.0,39
+map1_bottleneck,Genético,27,1026,90.9090909090909,40
+map1_bottleneck,Genético,28,1027,54.54545454545454,52
+map1_bottleneck,Genético,29,1028,81.81818181818183,35
+map1_bottleneck,Genético,30,1029,81.81818181818183,38
+map1_bottleneck,Genético,31,1030,81.81818181818183,36
+map1_bottleneck,Genético,32,1031,27.27272727272727,27
+map1_bottleneck,Genético,33,1032,63.63636363636363,34
+map1_bottleneck,Genético,34,1033,72.72727272727273,35
+map1_bottleneck,Genético,35,1034,100.0,37
+map1_bottleneck,Genético,36,1035,90.9090909090909,45
+map1_bottleneck,Genético,37,1036,54.54545454545454,35
+map1_bottleneck,Genético,38,1037,72.72727272727273,35
+map1_bottleneck,Genético,39,1038,81.81818181818183,42
+map1_bottleneck,Genético,40,1039,90.9090909090909,37
+map1_bottleneck,Genético,41,1040,100.0,37
+map1_bottleneck,Genético,42,1041,63.63636363636363,32
+map1_bottleneck,Genético,43,1042,63.63636363636363,36
+map1_bottleneck,Genético,44,1043,90.9090909090909,40
+map1_bottleneck,Genético,45,1044,63.63636363636363,35
+map1_bottleneck,Genético,46,1045,100.0,37
+map1_bottleneck,Genético,47,1046,100.0,40
+map1_bottleneck,Genético,48,1047,100.0,36
+map1_bottleneck,Genético,49,1048,90.9090909090909,38
+map1_bottleneck,Genético,50,1049,100.0,37
+map1_bottleneck,Genético,51,1050,90.9090909090909,38
+map1_bottleneck,Genético,52,1051,100.0,38
+map1_bottleneck,Genético,53,1052,100.0,39
+map1_bottleneck,Genético,54,1053,54.54545454545454,35
+map1_bottleneck,Genético,55,1054,100.0,54
+map1_bottleneck,Genético,56,1055,100.0,38
+map1_bottleneck,Genético,57,1056,90.9090909090909,36
+map1_bottleneck,Genético,58,1057,100.0,39
+map1_bottleneck,Genético,59,1058,90.9090909090909,36
+map1_bottleneck,Genético,60,1059,81.81818181818183,34
+map1_bottleneck,Genético,61,1060,81.81818181818183,39
+map1_bottleneck,Genético,62,1061,72.72727272727273,35
+map1_bottleneck,Genético,63,1062,90.9090909090909,37
+map1_bottleneck,Genético,64,1063,81.81818181818183,38
+map1_bottleneck,Genético,65,1064,100.0,38
+map1_bottleneck,Genético,66,1065,100.0,36
+map1_bottleneck,Genético,67,1066,72.72727272727273,38
+map1_bottleneck,Genético,68,1067,90.9090909090909,44
+map1_bottleneck,Genético,69,1068,81.81818181818183,39
+map1_bottleneck,Genético,70,1069,81.81818181818183,38
+map1_bottleneck,Genético,71,1070,100.0,36
+map1_bottleneck,Genético,72,1071,81.81818181818183,38
+map1_bottleneck,Genético,73,1072,100.0,37
+map1_bottleneck,Genético,74,1073,81.81818181818183,40
+map1_bottleneck,Genético,75,1074,72.72727272727273,41
+map1_bottleneck,Genético,76,1075,54.54545454545454,34
+map1_bottleneck,Genético,77,1076,54.54545454545454,36
+map1_bottleneck,Genético,78,1077,100.0,38
+map1_bottleneck,Genético,79,1078,90.9090909090909,35
+map1_bottleneck,Genético,80,1079,72.72727272727273,44
+map2_maze,BFS,1,1000,50.0,74
+map2_maze,BFS,2,1001,50.0,96
+map2_maze,BFS,3,1002,50.0,112
+map2_maze,BFS,4,1003,50.0,68
+map2_maze,BFS,5,1004,50.0,82
+map2_maze,BFS,6,1005,50.0,100
+map2_maze,BFS,7,1006,50.0,62
+map2_maze,BFS,8,1007,50.0,78
+map2_maze,BFS,9,1008,50.0,92
+map2_maze,BFS,10,1009,50.0,76
+map2_maze,BFS,11,1010,50.0,104
+map2_maze,BFS,12,1011,50.0,66
+map2_maze,BFS,13,1012,50.0,112
+map2_maze,BFS,14,1013,50.0,94
+map2_maze,BFS,15,1014,50.0,106
+map2_maze,BFS,16,1015,50.0,78
+map2_maze,BFS,17,1016,50.0,70
+map2_maze,BFS,18,1017,50.0,76
+map2_maze,BFS,19,1018,50.0,114
+map2_maze,BFS,20,1019,50.0,94
+map2_maze,BFS,21,1020,50.0,94
+map2_maze,BFS,22,1021,50.0,88
+map2_maze,BFS,23,1022,50.0,72
+map2_maze,BFS,24,1023,50.0,112
+map2_maze,BFS,25,1024,50.0,78
+map2_maze,BFS,26,1025,50.0,70
+map2_maze,BFS,27,1026,50.0,66
+map2_maze,BFS,28,1027,50.0,92
+map2_maze,BFS,29,1028,50.0,96
+map2_maze,BFS,30,1029,50.0,92
+map2_maze,BFS,31,1030,50.0,88
+map2_maze,BFS,32,1031,50.0,100
+map2_maze,BFS,33,1032,50.0,98
+map2_maze,BFS,34,1033,50.0,56
+map2_maze,BFS,35,1034,50.0,86
+map2_maze,BFS,36,1035,50.0,62
+map2_maze,BFS,37,1036,50.0,70
+map2_maze,BFS,38,1037,50.0,74
+map2_maze,BFS,39,1038,50.0,64
+map2_maze,BFS,40,1039,50.0,80
+map2_maze,BFS,41,1040,50.0,102
+map2_maze,BFS,42,1041,50.0,88
+map2_maze,BFS,43,1042,50.0,96
+map2_maze,BFS,44,1043,50.0,84
+map2_maze,BFS,45,1044,50.0,78
+map2_maze,BFS,46,1045,50.0,82
+map2_maze,BFS,47,1046,50.0,64
+map2_maze,BFS,48,1047,50.0,78
+map2_maze,BFS,49,1048,50.0,80
+map2_maze,BFS,50,1049,50.0,86
+map2_maze,BFS,51,1050,50.0,98
+map2_maze,BFS,52,1051,50.0,84
+map2_maze,BFS,53,1052,50.0,86
+map2_maze,BFS,54,1053,50.0,76
+map2_maze,BFS,55,1054,50.0,78
+map2_maze,BFS,56,1055,50.0,100
+map2_maze,BFS,57,1056,50.0,118
+map2_maze,BFS,58,1057,50.0,78
+map2_maze,BFS,59,1058,50.0,80
+map2_maze,BFS,60,1059,50.0,84
+map2_maze,BFS,61,1060,50.0,88
+map2_maze,BFS,62,1061,50.0,106
+map2_maze,BFS,63,1062,50.0,72
+map2_maze,BFS,64,1063,50.0,82
+map2_maze,BFS,65,1064,50.0,82
+map2_maze,BFS,66,1065,50.0,72
+map2_maze,BFS,67,1066,50.0,74
+map2_maze,BFS,68,1067,50.0,98
+map2_maze,BFS,69,1068,50.0,88
+map2_maze,BFS,70,1069,50.0,68
+map2_maze,BFS,71,1070,50.0,88
+map2_maze,BFS,72,1071,50.0,70
+map2_maze,BFS,73,1072,50.0,100
+map2_maze,BFS,74,1073,50.0,66
+map2_maze,BFS,75,1074,50.0,72
+map2_maze,BFS,76,1075,50.0,82
+map2_maze,BFS,77,1076,50.0,68
+map2_maze,BFS,78,1077,50.0,82
+map2_maze,BFS,79,1078,50.0,68
+map2_maze,BFS,80,1079,50.0,90
+map2_maze,DFS,1,1000,50.0,74
+map2_maze,DFS,2,1001,50.0,96
+map2_maze,DFS,3,1002,50.0,112
+map2_maze,DFS,4,1003,50.0,68
+map2_maze,DFS,5,1004,50.0,82
+map2_maze,DFS,6,1005,50.0,100
+map2_maze,DFS,7,1006,50.0,62
+map2_maze,DFS,8,1007,50.0,78
+map2_maze,DFS,9,1008,50.0,92
+map2_maze,DFS,10,1009,50.0,76
+map2_maze,DFS,11,1010,50.0,104
+map2_maze,DFS,12,1011,50.0,66
+map2_maze,DFS,13,1012,50.0,112
+map2_maze,DFS,14,1013,50.0,94
+map2_maze,DFS,15,1014,50.0,106
+map2_maze,DFS,16,1015,50.0,78
+map2_maze,DFS,17,1016,50.0,70
+map2_maze,DFS,18,1017,50.0,76
+map2_maze,DFS,19,1018,50.0,114
+map2_maze,DFS,20,1019,50.0,94
+map2_maze,DFS,21,1020,50.0,94
+map2_maze,DFS,22,1021,50.0,88
+map2_maze,DFS,23,1022,50.0,72
+map2_maze,DFS,24,1023,50.0,112
+map2_maze,DFS,25,1024,50.0,78
+map2_maze,DFS,26,1025,50.0,70
+map2_maze,DFS,27,1026,50.0,66
+map2_maze,DFS,28,1027,50.0,92
+map2_maze,DFS,29,1028,50.0,96
+map2_maze,DFS,30,1029,50.0,92
+map2_maze,DFS,31,1030,50.0,88
+map2_maze,DFS,32,1031,50.0,100
+map2_maze,DFS,33,1032,50.0,98
+map2_maze,DFS,34,1033,50.0,56
+map2_maze,DFS,35,1034,50.0,86
+map2_maze,DFS,36,1035,50.0,62
+map2_maze,DFS,37,1036,50.0,70
+map2_maze,DFS,38,1037,50.0,74
+map2_maze,DFS,39,1038,50.0,64
+map2_maze,DFS,40,1039,50.0,80
+map2_maze,DFS,41,1040,50.0,102
+map2_maze,DFS,42,1041,50.0,88
+map2_maze,DFS,43,1042,50.0,96
+map2_maze,DFS,44,1043,50.0,84
+map2_maze,DFS,45,1044,50.0,78
+map2_maze,DFS,46,1045,50.0,82
+map2_maze,DFS,47,1046,50.0,64
+map2_maze,DFS,48,1047,50.0,78
+map2_maze,DFS,49,1048,50.0,80
+map2_maze,DFS,50,1049,50.0,86
+map2_maze,DFS,51,1050,50.0,98
+map2_maze,DFS,52,1051,50.0,84
+map2_maze,DFS,53,1052,50.0,86
+map2_maze,DFS,54,1053,50.0,76
+map2_maze,DFS,55,1054,50.0,78
+map2_maze,DFS,56,1055,50.0,100
+map2_maze,DFS,57,1056,50.0,118
+map2_maze,DFS,58,1057,50.0,78
+map2_maze,DFS,59,1058,50.0,80
+map2_maze,DFS,60,1059,50.0,84
+map2_maze,DFS,61,1060,50.0,88
+map2_maze,DFS,62,1061,50.0,106
+map2_maze,DFS,63,1062,50.0,72
+map2_maze,DFS,64,1063,50.0,82
+map2_maze,DFS,65,1064,50.0,82
+map2_maze,DFS,66,1065,50.0,72
+map2_maze,DFS,67,1066,50.0,74
+map2_maze,DFS,68,1067,50.0,98
+map2_maze,DFS,69,1068,50.0,88
+map2_maze,DFS,70,1069,50.0,68
+map2_maze,DFS,71,1070,50.0,88
+map2_maze,DFS,72,1071,50.0,70
+map2_maze,DFS,73,1072,50.0,100
+map2_maze,DFS,74,1073,50.0,66
+map2_maze,DFS,75,1074,50.0,72
+map2_maze,DFS,76,1075,50.0,82
+map2_maze,DFS,77,1076,50.0,68
+map2_maze,DFS,78,1077,50.0,82
+map2_maze,DFS,79,1078,50.0,68
+map2_maze,DFS,80,1079,50.0,90
+map2_maze,A*,1,1000,50.0,74
+map2_maze,A*,2,1001,50.0,96
+map2_maze,A*,3,1002,50.0,112
+map2_maze,A*,4,1003,50.0,68
+map2_maze,A*,5,1004,50.0,82
+map2_maze,A*,6,1005,50.0,100
+map2_maze,A*,7,1006,50.0,62
+map2_maze,A*,8,1007,50.0,78
+map2_maze,A*,9,1008,50.0,92
+map2_maze,A*,10,1009,50.0,76
+map2_maze,A*,11,1010,50.0,104
+map2_maze,A*,12,1011,50.0,66
+map2_maze,A*,13,1012,50.0,112
+map2_maze,A*,14,1013,50.0,94
+map2_maze,A*,15,1014,50.0,106
+map2_maze,A*,16,1015,50.0,78
+map2_maze,A*,17,1016,50.0,70
+map2_maze,A*,18,1017,50.0,76
+map2_maze,A*,19,1018,50.0,114
+map2_maze,A*,20,1019,50.0,94
+map2_maze,A*,21,1020,50.0,94
+map2_maze,A*,22,1021,50.0,88
+map2_maze,A*,23,1022,50.0,72
+map2_maze,A*,24,1023,50.0,112
+map2_maze,A*,25,1024,50.0,78
+map2_maze,A*,26,1025,50.0,70
+map2_maze,A*,27,1026,50.0,66
+map2_maze,A*,28,1027,50.0,92
+map2_maze,A*,29,1028,50.0,96
+map2_maze,A*,30,1029,50.0,92
+map2_maze,A*,31,1030,50.0,88
+map2_maze,A*,32,1031,50.0,100
+map2_maze,A*,33,1032,50.0,98
+map2_maze,A*,34,1033,50.0,56
+map2_maze,A*,35,1034,50.0,86
+map2_maze,A*,36,1035,50.0,62
+map2_maze,A*,37,1036,50.0,70
+map2_maze,A*,38,1037,50.0,74
+map2_maze,A*,39,1038,50.0,64
+map2_maze,A*,40,1039,50.0,80
+map2_maze,A*,41,1040,50.0,102
+map2_maze,A*,42,1041,50.0,88
+map2_maze,A*,43,1042,50.0,96
+map2_maze,A*,44,1043,50.0,84
+map2_maze,A*,45,1044,50.0,78
+map2_maze,A*,46,1045,50.0,82
+map2_maze,A*,47,1046,50.0,64
+map2_maze,A*,48,1047,50.0,78
+map2_maze,A*,49,1048,50.0,80
+map2_maze,A*,50,1049,50.0,86
+map2_maze,A*,51,1050,50.0,98
+map2_maze,A*,52,1051,50.0,84
+map2_maze,A*,53,1052,50.0,86
+map2_maze,A*,54,1053,50.0,76
+map2_maze,A*,55,1054,50.0,78
+map2_maze,A*,56,1055,50.0,100
+map2_maze,A*,57,1056,50.0,118
+map2_maze,A*,58,1057,50.0,78
+map2_maze,A*,59,1058,50.0,80
+map2_maze,A*,60,1059,50.0,84
+map2_maze,A*,61,1060,50.0,88
+map2_maze,A*,62,1061,50.0,106
+map2_maze,A*,63,1062,50.0,72
+map2_maze,A*,64,1063,50.0,82
+map2_maze,A*,65,1064,50.0,82
+map2_maze,A*,66,1065,50.0,72
+map2_maze,A*,67,1066,50.0,74
+map2_maze,A*,68,1067,50.0,98
+map2_maze,A*,69,1068,50.0,88
+map2_maze,A*,70,1069,50.0,68
+map2_maze,A*,71,1070,50.0,88
+map2_maze,A*,72,1071,50.0,70
+map2_maze,A*,73,1072,50.0,100
+map2_maze,A*,74,1073,50.0,66
+map2_maze,A*,75,1074,50.0,72
+map2_maze,A*,76,1075,50.0,82
+map2_maze,A*,77,1076,50.0,68
+map2_maze,A*,78,1077,50.0,82
+map2_maze,A*,79,1078,50.0,68
+map2_maze,A*,80,1079,50.0,90
+map2_maze,Greedy BFS,1,1000,50.0,74
+map2_maze,Greedy BFS,2,1001,50.0,96
+map2_maze,Greedy BFS,3,1002,50.0,112
+map2_maze,Greedy BFS,4,1003,50.0,68
+map2_maze,Greedy BFS,5,1004,50.0,82
+map2_maze,Greedy BFS,6,1005,50.0,100
+map2_maze,Greedy BFS,7,1006,50.0,62
+map2_maze,Greedy BFS,8,1007,50.0,78
+map2_maze,Greedy BFS,9,1008,50.0,92
+map2_maze,Greedy BFS,10,1009,50.0,76
+map2_maze,Greedy BFS,11,1010,50.0,104
+map2_maze,Greedy BFS,12,1011,50.0,66
+map2_maze,Greedy BFS,13,1012,50.0,112
+map2_maze,Greedy BFS,14,1013,50.0,94
+map2_maze,Greedy BFS,15,1014,50.0,106
+map2_maze,Greedy BFS,16,1015,50.0,78
+map2_maze,Greedy BFS,17,1016,50.0,70
+map2_maze,Greedy BFS,18,1017,50.0,76
+map2_maze,Greedy BFS,19,1018,50.0,114
+map2_maze,Greedy BFS,20,1019,50.0,94
+map2_maze,Greedy BFS,21,1020,50.0,94
+map2_maze,Greedy BFS,22,1021,50.0,88
+map2_maze,Greedy BFS,23,1022,50.0,72
+map2_maze,Greedy BFS,24,1023,50.0,112
+map2_maze,Greedy BFS,25,1024,50.0,78
+map2_maze,Greedy BFS,26,1025,50.0,70
+map2_maze,Greedy BFS,27,1026,50.0,66
+map2_maze,Greedy BFS,28,1027,50.0,92
+map2_maze,Greedy BFS,29,1028,50.0,96
+map2_maze,Greedy BFS,30,1029,50.0,92
+map2_maze,Greedy BFS,31,1030,50.0,88
+map2_maze,Greedy BFS,32,1031,50.0,100
+map2_maze,Greedy BFS,33,1032,50.0,98
+map2_maze,Greedy BFS,34,1033,50.0,56
+map2_maze,Greedy BFS,35,1034,50.0,86
+map2_maze,Greedy BFS,36,1035,50.0,62
+map2_maze,Greedy BFS,37,1036,50.0,70
+map2_maze,Greedy BFS,38,1037,50.0,74
+map2_maze,Greedy BFS,39,1038,50.0,64
+map2_maze,Greedy BFS,40,1039,50.0,80
+map2_maze,Greedy BFS,41,1040,50.0,102
+map2_maze,Greedy BFS,42,1041,50.0,88
+map2_maze,Greedy BFS,43,1042,50.0,96
+map2_maze,Greedy BFS,44,1043,50.0,84
+map2_maze,Greedy BFS,45,1044,50.0,78
+map2_maze,Greedy BFS,46,1045,50.0,82
+map2_maze,Greedy BFS,47,1046,50.0,64
+map2_maze,Greedy BFS,48,1047,50.0,78
+map2_maze,Greedy BFS,49,1048,50.0,80
+map2_maze,Greedy BFS,50,1049,50.0,86
+map2_maze,Greedy BFS,51,1050,50.0,98
+map2_maze,Greedy BFS,52,1051,50.0,84
+map2_maze,Greedy BFS,53,1052,50.0,86
+map2_maze,Greedy BFS,54,1053,50.0,76
+map2_maze,Greedy BFS,55,1054,50.0,78
+map2_maze,Greedy BFS,56,1055,50.0,100
+map2_maze,Greedy BFS,57,1056,50.0,118
+map2_maze,Greedy BFS,58,1057,50.0,78
+map2_maze,Greedy BFS,59,1058,50.0,80
+map2_maze,Greedy BFS,60,1059,50.0,84
+map2_maze,Greedy BFS,61,1060,50.0,88
+map2_maze,Greedy BFS,62,1061,50.0,106
+map2_maze,Greedy BFS,63,1062,50.0,72
+map2_maze,Greedy BFS,64,1063,50.0,82
+map2_maze,Greedy BFS,65,1064,50.0,82
+map2_maze,Greedy BFS,66,1065,50.0,72
+map2_maze,Greedy BFS,67,1066,50.0,74
+map2_maze,Greedy BFS,68,1067,50.0,98
+map2_maze,Greedy BFS,69,1068,50.0,88
+map2_maze,Greedy BFS,70,1069,50.0,68
+map2_maze,Greedy BFS,71,1070,50.0,88
+map2_maze,Greedy BFS,72,1071,50.0,70
+map2_maze,Greedy BFS,73,1072,50.0,100
+map2_maze,Greedy BFS,74,1073,50.0,66
+map2_maze,Greedy BFS,75,1074,50.0,72
+map2_maze,Greedy BFS,76,1075,50.0,82
+map2_maze,Greedy BFS,77,1076,50.0,68
+map2_maze,Greedy BFS,78,1077,50.0,82
+map2_maze,Greedy BFS,79,1078,50.0,68
+map2_maze,Greedy BFS,80,1079,50.0,90
+map2_maze,Genético,1,1000,50.0,66
+map2_maze,Genético,2,1001,50.0,78
+map2_maze,Genético,3,1002,50.0,108
+map2_maze,Genético,4,1003,50.0,82
+map2_maze,Genético,5,1004,50.0,118
+map2_maze,Genético,6,1005,50.0,64
+map2_maze,Genético,7,1006,50.0,38
+map2_maze,Genético,8,1007,50.0,82
+map2_maze,Genético,9,1008,50.0,76
+map2_maze,Genético,10,1009,50.0,72
+map2_maze,Genético,11,1010,50.0,110
+map2_maze,Genético,12,1011,50.0,58
+map2_maze,Genético,13,1012,50.0,144
+map2_maze,Genético,14,1013,50.0,74
+map2_maze,Genético,15,1014,50.0,100
+map2_maze,Genético,16,1015,50.0,52
+map2_maze,Genético,17,1016,50.0,78
+map2_maze,Genético,18,1017,50.0,78
+map2_maze,Genético,19,1018,50.0,122
+map2_maze,Genético,20,1019,50.0,106
+map2_maze,Genético,21,1020,50.0,44
+map2_maze,Genético,22,1021,50.0,88
+map2_maze,Genético,23,1022,50.0,74
+map2_maze,Genético,24,1023,50.0,82
+map2_maze,Genético,25,1024,50.0,96
+map2_maze,Genético,26,1025,50.0,104
+map2_maze,Genético,27,1026,50.0,84
+map2_maze,Genético,28,1027,50.0,68
+map2_maze,Genético,29,1028,50.0,66
+map2_maze,Genético,30,1029,50.0,76
+map2_maze,Genético,31,1030,50.0,62
+map2_maze,Genético,32,1031,50.0,126
+map2_maze,Genético,33,1032,50.0,128
+map2_maze,Genético,34,1033,50.0,84
+map2_maze,Genético,35,1034,50.0,70
+map2_maze,Genético,36,1035,50.0,84
+map2_maze,Genético,37,1036,50.0,68
+map2_maze,Genético,38,1037,50.0,96
+map2_maze,Genético,39,1038,50.0,102
+map2_maze,Genético,40,1039,50.0,66
+map2_maze,Genético,41,1040,50.0,100
+map2_maze,Genético,42,1041,50.0,70
+map2_maze,Genético,43,1042,50.0,88
+map2_maze,Genético,44,1043,50.0,72
+map2_maze,Genético,45,1044,50.0,72
+map2_maze,Genético,46,1045,50.0,66
+map2_maze,Genético,47,1046,50.0,94
+map2_maze,Genético,48,1047,50.0,92
+map2_maze,Genético,49,1048,50.0,102
+map2_maze,Genético,50,1049,50.0,54
+map2_maze,Genético,51,1050,50.0,50
+map2_maze,Genético,52,1051,50.0,103
+map2_maze,Genético,53,1052,50.0,86
+map2_maze,Genético,54,1053,50.0,126
+map2_maze,Genético,55,1054,50.0,96
+map2_maze,Genético,56,1055,50.0,52
+map2_maze,Genético,57,1056,50.0,78
+map2_maze,Genético,58,1057,50.0,68
+map2_maze,Genético,59,1058,50.0,68
+map2_maze,Genético,60,1059,50.0,84
+map2_maze,Genético,61,1060,50.0,88
+map2_maze,Genético,62,1061,50.0,90
+map2_maze,Genético,63,1062,50.0,76
+map2_maze,Genético,64,1063,50.0,54
+map2_maze,Genético,65,1064,50.0,98
+map2_maze,Genético,66,1065,50.0,78
+map2_maze,Genético,67,1066,50.0,50
+map2_maze,Genético,68,1067,50.0,86
+map2_maze,Genético,69,1068,50.0,94
+map2_maze,Genético,70,1069,50.0,66
+map2_maze,Genético,71,1070,50.0,112
+map2_maze,Genético,72,1071,50.0,100
+map2_maze,Genético,73,1072,50.0,94
+map2_maze,Genético,74,1073,50.0,72
+map2_maze,Genético,75,1074,50.0,104
+map2_maze,Genético,76,1075,50.0,90
+map2_maze,Genético,77,1076,50.0,58
+map2_maze,Genético,78,1077,50.0,142
+map2_maze,Genético,79,1078,50.0,88
+map2_maze,Genético,80,1079,50.0,56
+map3_open,BFS,1,1000,100.0,17
+map3_open,BFS,2,1001,100.0,17
+map3_open,BFS,3,1002,100.0,17
+map3_open,BFS,4,1003,100.0,17
+map3_open,BFS,5,1004,100.0,17
+map3_open,BFS,6,1005,100.0,17
+map3_open,BFS,7,1006,100.0,17
+map3_open,BFS,8,1007,100.0,17
+map3_open,BFS,9,1008,100.0,17
+map3_open,BFS,10,1009,100.0,17
+map3_open,BFS,11,1010,100.0,17
+map3_open,BFS,12,1011,100.0,17
+map3_open,BFS,13,1012,100.0,17
+map3_open,BFS,14,1013,100.0,17
+map3_open,BFS,15,1014,100.0,17
+map3_open,BFS,16,1015,100.0,17
+map3_open,BFS,17,1016,100.0,17
+map3_open,BFS,18,1017,100.0,17
+map3_open,BFS,19,1018,100.0,17
+map3_open,BFS,20,1019,100.0,17
+map3_open,BFS,21,1020,100.0,17
+map3_open,BFS,22,1021,100.0,17
+map3_open,BFS,23,1022,100.0,17
+map3_open,BFS,24,1023,100.0,17
+map3_open,BFS,25,1024,100.0,17
+map3_open,BFS,26,1025,100.0,17
+map3_open,BFS,27,1026,100.0,17
+map3_open,BFS,28,1027,100.0,17
+map3_open,BFS,29,1028,100.0,17
+map3_open,BFS,30,1029,100.0,17
+map3_open,BFS,31,1030,100.0,17
+map3_open,BFS,32,1031,100.0,17
+map3_open,BFS,33,1032,100.0,17
+map3_open,BFS,34,1033,100.0,17
+map3_open,BFS,35,1034,100.0,17
+map3_open,BFS,36,1035,100.0,17
+map3_open,BFS,37,1036,100.0,17
+map3_open,BFS,38,1037,100.0,17
+map3_open,BFS,39,1038,100.0,17
+map3_open,BFS,40,1039,100.0,17
+map3_open,BFS,41,1040,100.0,17
+map3_open,BFS,42,1041,100.0,17
+map3_open,BFS,43,1042,100.0,17
+map3_open,BFS,44,1043,100.0,17
+map3_open,BFS,45,1044,100.0,17
+map3_open,BFS,46,1045,100.0,17
+map3_open,BFS,47,1046,100.0,17
+map3_open,BFS,48,1047,100.0,17
+map3_open,BFS,49,1048,100.0,17
+map3_open,BFS,50,1049,100.0,17
+map3_open,BFS,51,1050,100.0,17
+map3_open,BFS,52,1051,100.0,17
+map3_open,BFS,53,1052,100.0,17
+map3_open,BFS,54,1053,100.0,17
+map3_open,BFS,55,1054,100.0,17
+map3_open,BFS,56,1055,100.0,17
+map3_open,BFS,57,1056,100.0,17
+map3_open,BFS,58,1057,100.0,17
+map3_open,BFS,59,1058,100.0,17
+map3_open,BFS,60,1059,100.0,17
+map3_open,BFS,61,1060,100.0,17
+map3_open,BFS,62,1061,100.0,17
+map3_open,BFS,63,1062,100.0,17
+map3_open,BFS,64,1063,100.0,17
+map3_open,BFS,65,1064,100.0,17
+map3_open,BFS,66,1065,100.0,17
+map3_open,BFS,67,1066,100.0,17
+map3_open,BFS,68,1067,100.0,17
+map3_open,BFS,69,1068,100.0,17
+map3_open,BFS,70,1069,100.0,17
+map3_open,BFS,71,1070,100.0,17
+map3_open,BFS,72,1071,100.0,17
+map3_open,BFS,73,1072,100.0,17
+map3_open,BFS,74,1073,100.0,17
+map3_open,BFS,75,1074,100.0,17
+map3_open,BFS,76,1075,100.0,17
+map3_open,BFS,77,1076,100.0,17
+map3_open,BFS,78,1077,100.0,17
+map3_open,BFS,79,1078,100.0,17
+map3_open,BFS,80,1079,100.0,17
+map3_open,DFS,1,1000,50.0,49
+map3_open,DFS,2,1001,25.0,56
+map3_open,DFS,3,1002,25.0,40
+map3_open,DFS,4,1003,0.0,0
+map3_open,DFS,5,1004,12.5,44
+map3_open,DFS,6,1005,0.0,0
+map3_open,DFS,7,1006,25.0,34
+map3_open,DFS,8,1007,37.5,48
+map3_open,DFS,9,1008,12.5,38
+map3_open,DFS,10,1009,12.5,38
+map3_open,DFS,11,1010,37.5,42
+map3_open,DFS,12,1011,0.0,0
+map3_open,DFS,13,1012,0.0,0
+map3_open,DFS,14,1013,37.5,40
+map3_open,DFS,15,1014,25.0,42
+map3_open,DFS,16,1015,37.5,46
+map3_open,DFS,17,1016,37.5,43
+map3_open,DFS,18,1017,25.0,40
+map3_open,DFS,19,1018,25.0,38
+map3_open,DFS,20,1019,25.0,40
+map3_open,DFS,21,1020,50.0,37
+map3_open,DFS,22,1021,37.5,38
+map3_open,DFS,23,1022,12.5,40
+map3_open,DFS,24,1023,12.5,50
+map3_open,DFS,25,1024,25.0,70
+map3_open,DFS,26,1025,12.5,34
+map3_open,DFS,27,1026,25.0,35
+map3_open,DFS,28,1027,50.0,48
+map3_open,DFS,29,1028,12.5,36
+map3_open,DFS,30,1029,25.0,46
+map3_open,DFS,31,1030,25.0,50
+map3_open,DFS,32,1031,12.5,40
+map3_open,DFS,33,1032,0.0,0
+map3_open,DFS,34,1033,0.0,0
+map3_open,DFS,35,1034,12.5,44
+map3_open,DFS,36,1035,50.0,36
+map3_open,DFS,37,1036,12.5,40
+map3_open,DFS,38,1037,12.5,34
+map3_open,DFS,39,1038,62.5,38
+map3_open,DFS,40,1039,0.0,0
+map3_open,DFS,41,1040,37.5,44
+map3_open,DFS,42,1041,37.5,48
+map3_open,DFS,43,1042,25.0,54
+map3_open,DFS,44,1043,25.0,44
+map3_open,DFS,45,1044,25.0,52
+map3_open,DFS,46,1045,37.5,41
+map3_open,DFS,47,1046,25.0,44
+map3_open,DFS,48,1047,25.0,39
+map3_open,DFS,49,1048,37.5,38
+map3_open,DFS,50,1049,50.0,43
+map3_open,DFS,51,1050,37.5,38
+map3_open,DFS,52,1051,0.0,0
+map3_open,DFS,53,1052,0.0,0
+map3_open,DFS,54,1053,37.5,44
+map3_open,DFS,55,1054,12.5,40
+map3_open,DFS,56,1055,25.0,40
+map3_open,DFS,57,1056,12.5,56
+map3_open,DFS,58,1057,12.5,36
+map3_open,DFS,59,1058,12.5,40
+map3_open,DFS,60,1059,25.0,40
+map3_open,DFS,61,1060,0.0,0
+map3_open,DFS,62,1061,50.0,43
+map3_open,DFS,63,1062,25.0,41
+map3_open,DFS,64,1063,12.5,56
+map3_open,DFS,65,1064,25.0,40
+map3_open,DFS,66,1065,12.5,34
+map3_open,DFS,67,1066,12.5,40
+map3_open,DFS,68,1067,25.0,38
+map3_open,DFS,69,1068,25.0,40
+map3_open,DFS,70,1069,25.0,46
+map3_open,DFS,71,1070,0.0,0
+map3_open,DFS,72,1071,37.5,48
+map3_open,DFS,73,1072,12.5,44
+map3_open,DFS,74,1073,62.5,42
+map3_open,DFS,75,1074,0.0,0
+map3_open,DFS,76,1075,37.5,44
+map3_open,DFS,77,1076,25.0,38
+map3_open,DFS,78,1077,37.5,42
+map3_open,DFS,79,1078,0.0,0
+map3_open,DFS,80,1079,25.0,48
+map3_open,A*,1,1000,100.0,17
+map3_open,A*,2,1001,100.0,17
+map3_open,A*,3,1002,100.0,17
+map3_open,A*,4,1003,100.0,17
+map3_open,A*,5,1004,100.0,17
+map3_open,A*,6,1005,100.0,17
+map3_open,A*,7,1006,100.0,17
+map3_open,A*,8,1007,100.0,17
+map3_open,A*,9,1008,100.0,17
+map3_open,A*,10,1009,100.0,17
+map3_open,A*,11,1010,100.0,17
+map3_open,A*,12,1011,100.0,17
+map3_open,A*,13,1012,100.0,17
+map3_open,A*,14,1013,100.0,17
+map3_open,A*,15,1014,100.0,17
+map3_open,A*,16,1015,100.0,17
+map3_open,A*,17,1016,100.0,17
+map3_open,A*,18,1017,100.0,17
+map3_open,A*,19,1018,100.0,17
+map3_open,A*,20,1019,100.0,17
+map3_open,A*,21,1020,100.0,17
+map3_open,A*,22,1021,100.0,17
+map3_open,A*,23,1022,100.0,17
+map3_open,A*,24,1023,100.0,17
+map3_open,A*,25,1024,100.0,17
+map3_open,A*,26,1025,100.0,17
+map3_open,A*,27,1026,100.0,17
+map3_open,A*,28,1027,100.0,17
+map3_open,A*,29,1028,100.0,17
+map3_open,A*,30,1029,100.0,17
+map3_open,A*,31,1030,100.0,17
+map3_open,A*,32,1031,100.0,17
+map3_open,A*,33,1032,100.0,17
+map3_open,A*,34,1033,100.0,17
+map3_open,A*,35,1034,100.0,17
+map3_open,A*,36,1035,100.0,17
+map3_open,A*,37,1036,100.0,17
+map3_open,A*,38,1037,100.0,17
+map3_open,A*,39,1038,100.0,17
+map3_open,A*,40,1039,100.0,17
+map3_open,A*,41,1040,100.0,17
+map3_open,A*,42,1041,100.0,17
+map3_open,A*,43,1042,100.0,17
+map3_open,A*,44,1043,100.0,17
+map3_open,A*,45,1044,100.0,17
+map3_open,A*,46,1045,100.0,17
+map3_open,A*,47,1046,100.0,17
+map3_open,A*,48,1047,100.0,17
+map3_open,A*,49,1048,100.0,17
+map3_open,A*,50,1049,100.0,17
+map3_open,A*,51,1050,100.0,17
+map3_open,A*,52,1051,100.0,17
+map3_open,A*,53,1052,100.0,17
+map3_open,A*,54,1053,100.0,17
+map3_open,A*,55,1054,100.0,17
+map3_open,A*,56,1055,100.0,17
+map3_open,A*,57,1056,100.0,17
+map3_open,A*,58,1057,100.0,17
+map3_open,A*,59,1058,100.0,17
+map3_open,A*,60,1059,100.0,17
+map3_open,A*,61,1060,100.0,17
+map3_open,A*,62,1061,100.0,17
+map3_open,A*,63,1062,100.0,17
+map3_open,A*,64,1063,100.0,17
+map3_open,A*,65,1064,100.0,17
+map3_open,A*,66,1065,100.0,17
+map3_open,A*,67,1066,100.0,17
+map3_open,A*,68,1067,100.0,17
+map3_open,A*,69,1068,100.0,17
+map3_open,A*,70,1069,100.0,17
+map3_open,A*,71,1070,100.0,17
+map3_open,A*,72,1071,100.0,17
+map3_open,A*,73,1072,100.0,17
+map3_open,A*,74,1073,100.0,17
+map3_open,A*,75,1074,100.0,17
+map3_open,A*,76,1075,100.0,17
+map3_open,A*,77,1076,100.0,17
+map3_open,A*,78,1077,100.0,17
+map3_open,A*,79,1078,100.0,17
+map3_open,A*,80,1079,100.0,17
+map3_open,Greedy BFS,1,1000,100.0,17
+map3_open,Greedy BFS,2,1001,100.0,17
+map3_open,Greedy BFS,3,1002,100.0,17
+map3_open,Greedy BFS,4,1003,100.0,17
+map3_open,Greedy BFS,5,1004,100.0,17
+map3_open,Greedy BFS,6,1005,100.0,17
+map3_open,Greedy BFS,7,1006,100.0,17
+map3_open,Greedy BFS,8,1007,100.0,17
+map3_open,Greedy BFS,9,1008,100.0,17
+map3_open,Greedy BFS,10,1009,100.0,17
+map3_open,Greedy BFS,11,1010,100.0,17
+map3_open,Greedy BFS,12,1011,100.0,17
+map3_open,Greedy BFS,13,1012,100.0,17
+map3_open,Greedy BFS,14,1013,100.0,17
+map3_open,Greedy BFS,15,1014,100.0,17
+map3_open,Greedy BFS,16,1015,100.0,17
+map3_open,Greedy BFS,17,1016,100.0,17
+map3_open,Greedy BFS,18,1017,100.0,17
+map3_open,Greedy BFS,19,1018,100.0,17
+map3_open,Greedy BFS,20,1019,100.0,17
+map3_open,Greedy BFS,21,1020,100.0,17
+map3_open,Greedy BFS,22,1021,100.0,17
+map3_open,Greedy BFS,23,1022,100.0,17
+map3_open,Greedy BFS,24,1023,100.0,17
+map3_open,Greedy BFS,25,1024,100.0,17
+map3_open,Greedy BFS,26,1025,100.0,17
+map3_open,Greedy BFS,27,1026,100.0,17
+map3_open,Greedy BFS,28,1027,100.0,17
+map3_open,Greedy BFS,29,1028,100.0,17
+map3_open,Greedy BFS,30,1029,100.0,17
+map3_open,Greedy BFS,31,1030,100.0,17
+map3_open,Greedy BFS,32,1031,100.0,17
+map3_open,Greedy BFS,33,1032,100.0,17
+map3_open,Greedy BFS,34,1033,100.0,17
+map3_open,Greedy BFS,35,1034,100.0,17
+map3_open,Greedy BFS,36,1035,100.0,17
+map3_open,Greedy BFS,37,1036,100.0,17
+map3_open,Greedy BFS,38,1037,100.0,17
+map3_open,Greedy BFS,39,1038,100.0,17
+map3_open,Greedy BFS,40,1039,100.0,17
+map3_open,Greedy BFS,41,1040,100.0,17
+map3_open,Greedy BFS,42,1041,100.0,17
+map3_open,Greedy BFS,43,1042,100.0,17
+map3_open,Greedy BFS,44,1043,100.0,17
+map3_open,Greedy BFS,45,1044,100.0,17
+map3_open,Greedy BFS,46,1045,100.0,17
+map3_open,Greedy BFS,47,1046,100.0,17
+map3_open,Greedy BFS,48,1047,100.0,17
+map3_open,Greedy BFS,49,1048,100.0,17
+map3_open,Greedy BFS,50,1049,100.0,17
+map3_open,Greedy BFS,51,1050,100.0,17
+map3_open,Greedy BFS,52,1051,100.0,17
+map3_open,Greedy BFS,53,1052,100.0,17
+map3_open,Greedy BFS,54,1053,100.0,17
+map3_open,Greedy BFS,55,1054,100.0,17
+map3_open,Greedy BFS,56,1055,100.0,17
+map3_open,Greedy BFS,57,1056,100.0,17
+map3_open,Greedy BFS,58,1057,100.0,17
+map3_open,Greedy BFS,59,1058,100.0,17
+map3_open,Greedy BFS,60,1059,100.0,17
+map3_open,Greedy BFS,61,1060,100.0,17
+map3_open,Greedy BFS,62,1061,100.0,17
+map3_open,Greedy BFS,63,1062,100.0,17
+map3_open,Greedy BFS,64,1063,100.0,17
+map3_open,Greedy BFS,65,1064,100.0,17
+map3_open,Greedy BFS,66,1065,100.0,17
+map3_open,Greedy BFS,67,1066,100.0,17
+map3_open,Greedy BFS,68,1067,100.0,17
+map3_open,Greedy BFS,69,1068,100.0,17
+map3_open,Greedy BFS,70,1069,100.0,17
+map3_open,Greedy BFS,71,1070,100.0,17
+map3_open,Greedy BFS,72,1071,100.0,17
+map3_open,Greedy BFS,73,1072,100.0,17
+map3_open,Greedy BFS,74,1073,100.0,17
+map3_open,Greedy BFS,75,1074,100.0,17
+map3_open,Greedy BFS,76,1075,100.0,17
+map3_open,Greedy BFS,77,1076,100.0,17
+map3_open,Greedy BFS,78,1077,100.0,17
+map3_open,Greedy BFS,79,1078,100.0,17
+map3_open,Greedy BFS,80,1079,100.0,17
+map3_open,Genético,1,1000,100.0,35
+map3_open,Genético,2,1001,87.5,36
+map3_open,Genético,3,1002,87.5,34
+map3_open,Genético,4,1003,62.5,37
+map3_open,Genético,5,1004,100.0,33
+map3_open,Genético,6,1005,87.5,34
+map3_open,Genético,7,1006,100.0,36
+map3_open,Genético,8,1007,100.0,34
+map3_open,Genético,9,1008,50.0,32
+map3_open,Genético,10,1009,75.0,33
+map3_open,Genético,11,1010,100.0,32
+map3_open,Genético,12,1011,62.5,38
+map3_open,Genético,13,1012,87.5,32
+map3_open,Genético,14,1013,87.5,32
+map3_open,Genético,15,1014,87.5,35
+map3_open,Genético,16,1015,87.5,36
+map3_open,Genético,17,1016,87.5,37
+map3_open,Genético,18,1017,87.5,42
+map3_open,Genético,19,1018,62.5,36
+map3_open,Genético,20,1019,75.0,40
+map3_open,Genético,21,1020,75.0,31
+map3_open,Genético,22,1021,87.5,33
+map3_open,Genético,23,1022,87.5,30
+map3_open,Genético,24,1023,100.0,35
+map3_open,Genético,25,1024,25.0,30
+map3_open,Genético,26,1025,50.0,32
+map3_open,Genético,27,1026,87.5,35
+map3_open,Genético,28,1027,37.5,40
+map3_open,Genético,29,1028,62.5,41
+map3_open,Genético,30,1029,75.0,31
+map3_open,Genético,31,1030,50.0,34
+map3_open,Genético,32,1031,75.0,35
+map3_open,Genético,33,1032,37.5,30
+map3_open,Genético,34,1033,100.0,36
+map3_open,Genético,35,1034,100.0,35
+map3_open,Genético,36,1035,87.5,40
+map3_open,Genético,37,1036,75.0,34
+map3_open,Genético,38,1037,87.5,34
+map3_open,Genético,39,1038,62.5,28
+map3_open,Genético,40,1039,50.0,34
+map3_open,Genético,41,1040,75.0,36
+map3_open,Genético,42,1041,87.5,38
+map3_open,Genético,43,1042,62.5,33
+map3_open,Genético,44,1043,75.0,32
+map3_open,Genético,45,1044,62.5,31
+map3_open,Genético,46,1045,87.5,29
+map3_open,Genético,47,1046,50.0,34
+map3_open,Genético,48,1047,75.0,35
+map3_open,Genético,49,1048,75.0,30
+map3_open,Genético,50,1049,75.0,34
+map3_open,Genético,51,1050,62.5,32
+map3_open,Genético,52,1051,75.0,36
+map3_open,Genético,53,1052,75.0,34
+map3_open,Genético,54,1053,87.5,33
+map3_open,Genético,55,1054,62.5,32
+map3_open,Genético,56,1055,100.0,35
+map3_open,Genético,57,1056,100.0,35
+map3_open,Genético,58,1057,50.0,36
+map3_open,Genético,59,1058,75.0,34
+map3_open,Genético,60,1059,87.5,35
+map3_open,Genético,61,1060,100.0,34
+map3_open,Genético,62,1061,100.0,36
+map3_open,Genético,63,1062,50.0,33
+map3_open,Genético,64,1063,62.5,34
+map3_open,Genético,65,1064,87.5,36
+map3_open,Genético,66,1065,50.0,34
+map3_open,Genético,67,1066,87.5,36
+map3_open,Genético,68,1067,87.5,34
+map3_open,Genético,69,1068,50.0,42
+map3_open,Genético,70,1069,87.5,33
+map3_open,Genético,71,1070,100.0,35
+map3_open,Genético,72,1071,87.5,37
+map3_open,Genético,73,1072,62.5,33
+map3_open,Genético,74,1073,75.0,35
+map3_open,Genético,75,1074,87.5,38
+map3_open,Genético,76,1075,75.0,35
+map3_open,Genético,77,1076,100.0,35
+map3_open,Genético,78,1077,87.5,35
+map3_open,Genético,79,1078,100.0,35
+map3_open,Genético,80,1079,87.5,34
